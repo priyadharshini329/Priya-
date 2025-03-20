@@ -103,7 +103,7 @@ Skills</a></li>
         <div class="section-content">
             <h2>About Me</h2>
             <p>I'm <b>Priyadharshini S</b>,currently pursuing a Bachelor of Computer Applications (BCA) at Jeppiaar College of Arts and Science, Padur. I completed my school education at Girls Government Higher Secondary School at Thiruporur, Scoring 71% in my final examination.  My long-term goal is become a Fashion Designing and My Short-time goal is is become a Software Developer.  After completing my degree,I aspire to join a renowned IT company as a software developer, where I can apply my skills and continuously grow in the field of technology.
-I have a strong foundation in Python, C++, Java, Advance Java, Datastructure and several other programming languages.I am dedicated to expanding my knowledge by learning more advanced programming languages and staying updated with the latest technological advancements.I am committed to putting in hard work and dedication toward achieving my career goals. Additionally, I plan to pursue a postgraduate degree (PG) to further enhance my expertise and open up greater opportunities in the IT industry.</p>
+I have a strong foundation in Python, C++, Java, Advance Java, Datastructure and several other programming languages. I am dedicated to expanding my knowledge by learning more advanced programming languages and staying updated with the latest technological advancements.I am committed to putting in hard work and dedication toward achieving my career goals. Additionally, I plan to pursue a postgraduate degree (PG) to further enhance my expertise and open up greater opportunities in the IT industry.</p>
         </div>
     </section>
 
